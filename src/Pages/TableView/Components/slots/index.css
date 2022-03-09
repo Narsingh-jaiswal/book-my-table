@@ -1,0 +1,25 @@
+.slot {
+  border-radius: 8px;
+  padding: 5px 0px 5px 18px;
+  margin: 5px;
+}
+
+.availableSlots {
+  background-color: #3ba3698f;
+  border: 3px solid #008b32;
+}
+
+.unavailableSlots {
+  background-color: #e37373b5;
+  border: 3px solid #ef0f0f;
+}
+
+.time {
+  font-family: "Russo One", sans-serif;
+  margin: 2px;
+}
+
+.occupiedstyle {
+  background-color: #86939f;
+  border: 3px solid #495057;
+}

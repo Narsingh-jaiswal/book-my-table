@@ -1,0 +1,55 @@
+.title {
+  font-family: "Festive", cursive;
+  text-align: center;
+  font-weight: 600;
+}
+
+.plans {
+  margin: 20px 0px 0px 20px;
+  width: 100%;
+  color: #6c757d;
+}
+
+.planValidity {
+  display: flex;
+  width: 130px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.planValidity p {
+  font-size: 12px;
+  margin: 0px;
+}
+
+.amount {
+  color: white;
+  margin: 0px;
+}
+
+.amountContainer {
+  position: absolute;
+  top: -18px;
+  right: 20px;
+  border-radius: 50%;
+  background-color: #ff000085;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: fit-content;
+  padding: 5px;
+}
+
+.planName {
+  margin: 0px;
+}
+
+.card-body {
+  position: relative;
+}
+
+.validity {
+  margin-top: 20px;
+}

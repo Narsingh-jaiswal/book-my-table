@@ -1,0 +1,41 @@
+.modalContainer {
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+  min-width: 100%;
+  min-height: 100vh;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffffed;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 20px 10px;
+}
+
+.textField {
+  width: 80% !important;
+  margin-top: 20px;
+}
+.action {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.autoGenerate {
+  width: 80%;
+  text-align: left;
+  color: rgb(128, 128, 248);
+  margin: 0px;
+  cursor: pointer;
+}

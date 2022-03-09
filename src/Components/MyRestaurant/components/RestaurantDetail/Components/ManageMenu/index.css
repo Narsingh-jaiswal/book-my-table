@@ -1,0 +1,33 @@
+.menuButtonContainer {
+  display: flex;
+  overflow: scroll;
+  width: 100%;
+  padding-bottom: 5px;
+}
+.menuButtons {
+  margin: 5px;
+}
+
+.menuActionButton {
+  display: flex;
+  justify-content: center;
+}
+
+.actionButtons {
+  margin: 10px;
+}
+
+.items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  margin: 5px;
+  color: #aa4600;
+  font-weight: bolder;
+}
+
+.menuItemContainer {
+  background-image: url(https://www.stockvault.net/data/2019/08/28/268866/preview16.jpg);
+  background-size: cover;
+}

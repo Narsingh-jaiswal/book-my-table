@@ -1,0 +1,11 @@
+.bookingCardContainer {
+  background-color: #958a8a5c;
+  width: calc(100% - 40px);
+  padding: 20px;
+  margin: 20px;
+}
+
+.myWishListContainer {
+  display: flex;
+  justify-content: space-evenly;
+}

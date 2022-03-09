@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.actionButton {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardContent {
+  margin: 5px;
+}
+
+.closeIcon {
+  position: absolute;
+  right: -12px;
+  top: -18px;
+}

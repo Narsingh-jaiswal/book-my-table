@@ -1,0 +1,13 @@
+.addButton {
+  margin: 10px;
+}
+.tables {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.timeSlotHeading {
+  margin-top: 20px;
+  color: black;
+}

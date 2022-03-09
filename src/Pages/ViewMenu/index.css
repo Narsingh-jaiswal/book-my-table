@@ -1,0 +1,17 @@
+.cart {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  transform: scale(1.5);
+}
+
+.badge {
+  position: absolute;
+  right: 3px;
+  font-size: 8px;
+  top: 5px;
+  background-color: red;
+  border-radius: 50%;
+  padding: 2px;
+  color: white;
+}

@@ -1,0 +1,15 @@
+.MyWishListItems {
+  padding: 20px;
+  height: 85vh;
+  overflow: auto;
+}
+
+.confirmOrderButton {
+  margin-top: 10px;
+  width: 90%;
+}
+
+.confirmOrderActionContainer {
+  display: flex;
+  justify-content: center;
+}
